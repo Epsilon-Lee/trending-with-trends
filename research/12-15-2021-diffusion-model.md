@@ -6,6 +6,7 @@ Generative modeling in diffusion model is based on ***score-based modeling*** in
 This (new)* direction astonishes me due to the following paper:
 
 - [Diffusion Models Beat GANs on Image Synthesis](https://papers.nips.cc/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf), `nips2021`
+- [Guidance: a cheat code for diffusion models](https://benanne.github.io/2022/05/26/guidance.html), a blog post explaining the simple math formulation of diffusion model May 26 2022.
 
 So this article aims at summarizing the following knowledge about diffusion models:
 
